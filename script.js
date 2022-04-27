@@ -19,7 +19,7 @@ const UseServerProvidedInfo = false; // nah laddy
 const ServerName = "Landis Community";
 const ServerSubName = "Half-Life 2 Roleplay";
 const MiscMessages = [
-	'<h1>hello</h1>',
+	'<b>Did you know?</b> The <i>AR-2 Pulse Rifle</i> is only obtainable from<br>raiding a Combine Ammo Box.',
 	'lkgfdgsldfgdjfsg',
 	'SKdjfsodfldsf !!!!!!!'
 ];
